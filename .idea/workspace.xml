@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05b8be54-29c9-4507-a84c-a97ad506c444" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="05b8be54-29c9-4507-a84c-a97ad506c444" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,10 +76,21 @@
       <option name="presentableId" value="Default" />
       <updated>1583449358287</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Insertion Collection/Hashset and Analyze comment Header Code&quot;">
+      <created>1584973622269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584973622269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <MESSAGE value="&quot;Insertion Collection/Hashset&quot;" />
+    <MESSAGE value="&quot;Insertion Collection/Hashset and Analyze comment Header Code&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Insertion Collection/Hashset and Analyze comment Header Code&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="677" y="178" key="#App" timestamp="1584973574780">
@@ -106,10 +109,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="452" y="243" width="518" height="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1299.741@67.27.1299.741" timestamp="1583451520365" />
-    <state x="582" y="114" key="CommitChangelistDialog2" timestamp="1584973557089">
+    <state x="582" y="114" key="CommitChangelistDialog2" timestamp="1584973619658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="582" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1366.161.1366.728@0.0.1920.1040" timestamp="1584973557089" />
+    <state x="582" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1366.161.1366.728@0.0.1920.1040" timestamp="1584973619658" />
     <state width="1253" height="200" key="GridCell.Tab.0.bottom" timestamp="1583452974320">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -126,6 +129,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1253" height="200" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583452974319" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1584973627815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1366.161.1366.728@0.0.1920.1040" timestamp="1584973627815" />
     <state x="449" y="151" width="524" height="491" key="extract.method.dialog" timestamp="1583451012764">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
