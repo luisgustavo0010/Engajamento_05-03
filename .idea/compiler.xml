@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Secomp2020" />
+        <module name="Engajamento_05-03" />
       </profile>
     </annotationProcessing>
   </component>
