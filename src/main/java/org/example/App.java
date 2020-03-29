@@ -68,10 +68,12 @@ public class App {
 //        return true;
 //    }
 
+    // Inserido ForEach com method Reference
     private static void exibirLista() {
         System.out.println("----- Lista de nomes -----");
-        for (String nomeAluno : listaAlunos){
+        listaAlunos.forEach(nomeAluno -> System.out.println(nomeAluno));
+        /* for (String nomeAluno : listaAlunos){
             System.out.println(nomeAluno);
-        }
+        } */
     }
 }
