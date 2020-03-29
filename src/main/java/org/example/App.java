@@ -51,7 +51,12 @@ public class App {
     private static void inserirAluno() {
         System.out.println("Insira o nome: ");
         String nome = sc.nextLine();
-        listaAlunos.add(nome);
+        if (listaAlunos.contains(nome)){
+            System.out.println("Nome já presente na lista !");
+        }
+        else{
+            listaAlunos.add(nome)
+        }
 //        if(verificaNomeExistente(nome)){
 //            listaAlunos.add(new Aluno(nome));
 //        }else{
